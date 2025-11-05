@@ -126,7 +126,7 @@ github-username-updater/
 ✓ Found 25 repositories
 
 ────────────────────────────────────────────────────────
-[1/25] yourname/awesome-project
+[1/25] safwanganz/GitRebrand
 ────────────────────────────────────────────────────────
   ➜ README.md (3 replacements)
   ➜ package.json (2 replacements)
