@@ -26,8 +26,8 @@ A powerful, production-ready CLI tool that automatically finds and replaces your
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/github-username-updater.git
-   cd github-username-updater
+   git clone https://github.com/SafwanGanz/GitRebrand.git
+   cd GitRebrand
    ```
 
 2. **Install dependencies:**
@@ -233,7 +233,7 @@ MIT License - feel free to use this in your own projects!
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request to [SafwanGanz/GitRebrand](https://github.com/SafwanGanz/GitRebrand).
 
 ## ⚠️ Disclaimer
 

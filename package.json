@@ -14,10 +14,37 @@
     "updater",
     "cli",
     "automation",
-    "octokit"
+    "octokit",
+    "github-api",
+    "rename",
+    "rebrand",
+    "bulk-update",
+    "repository",
+    "git",
+    "github-tools",
+    "developer-tools",
+    "batch-update",
+    "mass-update",
+    "github-automation",
+    "username-changer",
+    "profile-updater",
+    "repo-updater",
+    "github-cli",
+    "nodejs-cli",
+    "command-line",
+    "devtools",
+    "productivity"
   ],
-  "author": "Your Name",
+  "author": "SafwanGanz",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SafwanGanz/GitRebrand.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SafwanGanz/GitRebrand/issues"
+  },
+  "homepage": "https://github.com/SafwanGanz/GitRebrand#readme",
   "dependencies": {
     "@octokit/rest": "^20.0.2",
     "chalk": "^5.3.0",
