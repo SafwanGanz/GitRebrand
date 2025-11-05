@@ -61,3 +61,11 @@ temp/
 *.backup
 *.bak
 *.old
+
+# Script outputs (optional - uncomment if needed)
+# *.sh.log
+# *.bat.log
+
+# Compiled scripts (if any)
+# *.sh.compiled
+# *.bat.compiled
