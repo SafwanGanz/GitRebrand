@@ -1,6 +1,6 @@
 # 🚀 GitHub Username Auto-Updater
 
-A powerful, production-ready CLI tool that automatically finds and replaces your old GitHub username with a new one across **all your repositories and files** using the GitHub REST API.
+A powerful, CLI tool that automatically finds and replaces your old GitHub username with a new one across **all your repositories and files** using the GitHub REST API.
 
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
