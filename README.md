@@ -262,4 +262,3 @@ This tool makes automated changes to your repositories. Always:
 
 If you find this tool helpful, please give it a ⭐️!
 
-
